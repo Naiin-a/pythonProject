@@ -19,7 +19,7 @@ def enviar_email():
         # Envia o email
         with smtplib.SMTP('smtp.gmail.com', 587) as server:
             server.starttls()
-            server.login(remetente, 'umes vjro oeho dmwm')
+            server.login(remetente, '')
             server.sendmail(remetente, destinatario, msg.as_string())
             messagebox.showinfo("Sucesso", "Email enviado com sucesso!")
     except Exception as e:
