@@ -1,1 +1,1 @@
-codigos de python melhorando aos poucos
+codigos de python utilizados nas aulas de analise e desenvolvimento de sistemas
