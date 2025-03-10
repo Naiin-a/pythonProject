@@ -1,0 +1,8 @@
+alunos =[
+    {"nome": "Rafael", "notas": 9.5},
+    {"nome": "Agatha", "notas":10},
+    {"nome": "Madu", "notas":4.5}
+]
+
+alunosordenados = sorted(alunos, key=lambda alunos: alunos["notas"])
+print(alunosordenados)
