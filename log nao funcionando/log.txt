@@ -1,0 +1,5 @@
+---- LOGS DE EVENTOS ----
+
+[2025-06-03 08:17:26] (ID: None) - Usuário excluído
+Usuário: lica
+
